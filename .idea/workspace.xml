@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2327e0e2-c637-464e-b29f-733e20e58e36" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="2327e0e2-c637-464e-b29f-733e20e58e36" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/src/.env.example" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +39,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676888736235</updated>
-      <workItem from="1676888737336" duration="950000" />
+      <workItem from="1676888737336" duration="3275000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="906" y="-743" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676894831286">
+      <screen x="210" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="906" y="-743" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/210.-1080.1920.1080@210.-1080.1920.1080" timestamp="1676894831286" />
+    <state x="835" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1676898080220">
+      <screen x="210" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="835" y="-839" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/210.-1080.1920.1080@210.-1080.1920.1080" timestamp="1676898080220" />
   </component>
 </project>
